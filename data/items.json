@@ -6,7 +6,7 @@
       "iconColor": "#E7FD7F",
       "defaultValue": "Díario",
       "valor": 45.5,
-      "total": 63700,
+      "total": 63700
    },
    {
       "title": "Cultura",
@@ -15,7 +15,7 @@
       "iconColor": "#E7FD7F",
       "defaultValue": "Mensal",
       "valor": 100,
-      "total": 3500,
+      "total": 3500
    },
    {
       "title": "Flexivel",
@@ -24,7 +24,7 @@
       "iconColor": "#E7FD7F",
       "defaultValue": "Quinzenal",
       "valor": 100,
-      "total": 4200,
+      "total": 4200
    },
    {
       "title": "Home Office",
@@ -33,7 +33,7 @@
       "iconColor": "#E7FD7F",
       "defaultValue": "Mensal",
       "valor": 1200,
-      "total": 42000,
+      "total": 42000
    },
    {
       "title": "Mobilidade",
@@ -42,7 +42,7 @@
       "iconColor": "#172643",
       "defaultValue": "Mensal",
       "valor": 12,
-      "total": 8400,
+      "total": 8400
    },
    {
       "title": "Saúde",
@@ -51,6 +51,6 @@
       "iconColor": "#172643",
       "defaultValue": "Mensal",
       "valor": 420,
-      "total": 41160,
+      "total": 41160
    }
 ]
