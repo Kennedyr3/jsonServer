@@ -1,51 +1,56 @@
 [
    {
-      "category":"alimentação",
-      "recurrence":"Diária",
-      "value":45.50,
-      "totalvalue":63.70000,
-      "amountbeneficiaries":70
+      "title": "Alimentação",
+      "color": "#172643",
+      "textColor": "#fff",
+      "iconColor": "#E7FD7F",
+      "defaultValue": "Díario",
+      "valor": 45.5,
+      "total": 63700,
    },
    {
-      "category":"Combustível",
-      "recurrence":"Mensal",
-      "value":100.00,
-      "totalvalue":3.50000,
-      "amountbeneficiaries":35
+      "title": "Cultura",
+      "color": "#1D335B",
+      "textColor": "#fff",
+      "iconColor": "#E7FD7F",
+      "defaultValue": "Mensal",
+      "valor": 100,
+      "total": 3500,
    },
    {
-      "category":"Cultura",
-      "recurrence":"Mensal",
-      "value":100.00,
-      "totalvalue":4.20000,
-      "amountbeneficiaries":42
+      "title": "Flexivel",
+      "color": "#005D80",
+      "textColor": "#fff",
+      "iconColor": "#E7FD7F",
+      "defaultValue": "Quinzenal",
+      "valor": 100,
+      "total": 4200,
    },
    {
-      "category":"Educação",
-      "recurrence":"Anual",
-      "value":1.20000,
-      "totalvalue":42.00000,
-      "amountbeneficiaries":35
+      "title": "Home Office",
+      "color": "#00979B",
+      "textColor": "#fff",
+      "iconColor": "#E7FD7F",
+      "defaultValue": "Mensal",
+      "valor": 1200,
+      "total": 42000,
    },
    {
-      "category":"Flexível",
-      "recurrence":"Mensal",
-      "value":120.00,
-      "totalvalue":7.20000,
-      "amountbeneficiaries":60
+      "title": "Mobilidade",
+      "color": "#59D091",
+      "textColor": "#000",
+      "iconColor": "#172643",
+      "defaultValue": "Mensal",
+      "valor": 12,
+      "total": 8400,
    },
    {
-      "category":"Transporte",
-      "recurrence":"Diária",
-      "value":12.00,
-      "totalvalue":8.40000,
-      "amountbeneficiaries":35
-   },
-   {
-      "category":"Saúde",
-      "recurrence":"Mensal",
-      "value":420.00,
-      "totalvalue":41.16000,
-      "amountbeneficiaries":70
+      "title": "Saúde",
+      "color": "#E7FD7F",
+      "textColor": "#000",
+      "iconColor": "#172643",
+      "defaultValue": "Mensal",
+      "valor": 420,
+      "total": 41160,
    }
 ]
